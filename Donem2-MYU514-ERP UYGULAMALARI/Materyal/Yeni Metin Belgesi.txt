@@ -1,0 +1,1 @@
+Erp Uygulamaları sınavına gireceğim. Sana yükleyeceğim 15 tana dosyas var. bu dosyaları inceleyip en önemli 40 tane test sorusu istiyorum. Soru, 4 şık ve altında sadece A,B,C,D şeklinde cevaı olacak şekilde body kısmına yazman gerekiyor 

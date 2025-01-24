@@ -1,0 +1,23 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Zaman aralığı
+t = np.linspace(0, 0.01, 1000)  # 0 ile 0.01 saniye arasında 1000 nokta
+
+# Üçüncü harmonik bileşenin parametreleri
+f3 = 900  # 3. harmonik frekansı = 3 * 300 Hz
+A3 = 6.67  # 3. harmonik genliği
+phi3 = np.pi / 2  # 3. harmonik faz açısı = 90 derece
+
+# Üçüncü harmonik sinyal
+V3 = A3 * np.sin(2 * np.pi * f3 * t + phi3)
+
+# Zaman domeninde üçüncü harmonik bileşenin grafiği
+plt.figure(figsize=(10, 6))
+plt.plot(t, V3, label='3. Harmonik (900 Hz)')
+plt.xlabel('Zaman (s)')
+plt.ylabel('Genlik (V)')
+plt.title('Zaman Domeninde 3. Harmonik Sinyal')
+plt.grid(True)
+plt.legend()
+plt.show()

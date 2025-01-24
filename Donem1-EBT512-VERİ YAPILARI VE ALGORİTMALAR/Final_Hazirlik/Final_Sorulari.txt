@@ -1,0 +1,4 @@
+1. Heap ağaca dönüştürme ve Heap sort
+2. Huffman
+3. B23 tree
+4. Avl ağacı

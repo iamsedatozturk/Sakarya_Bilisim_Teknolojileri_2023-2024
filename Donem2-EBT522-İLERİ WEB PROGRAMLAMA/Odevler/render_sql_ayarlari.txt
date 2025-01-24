@@ -1,0 +1,51 @@
+https://dashboard.render.com/u/usr-ct4capu8ii6s73dd8ob0/settings
+
+RENDER AYARLARI
+Email
+sedat.ozturk3@ogr.sakarya.edu.tr
+
+Parola
+192327So+
+
+Host Name
+dpg-ct4cdttds78s73bhu7s0-a
+
+Port
+5432
+
+Database
+odev1
+
+UserName
+sa
+
+Password
+qNgqTkPT8lnyPhO92vofBAiaQcHZpAsk
+
+Internal Database URL
+postgresql://sa:qNgqTkPT8lnyPhO92vofBAiaQcHZpAsk@dpg-ct4cdttds78s73bhu7s0-a/odev1
+
+External Database URL
+postgresql://sa:qNgqTkPT8lnyPhO92vofBAiaQcHZpAsk@dpg-ct4cdttds78s73bhu7s0-a.frankfurt-postgres.render.com/odev1
+
+PSQL Command
+PGPASSWORD=qNgqTkPT8lnyPhO92vofBAiaQcHZpAsk psql -h dpg-ct4cdttds78s73bhu7s0-a.frankfurt-postgres.render.com -U sa odev1
+
+POSTGRE AYARLARI CONNECTION SEKMESİ
+Host name/address: 
+dpg-ct4cdttds78s73bhu7s0-a.frankfurt-postgres.render.com
+
+Port: 
+5432
+
+Maintenance Database: 
+odev1
+
+Username: 
+sa
+
+Password: 
+qNgqTkPT8lnyPhO92vofBAiaQcHZpAsk
+
+Save Password: 
+true

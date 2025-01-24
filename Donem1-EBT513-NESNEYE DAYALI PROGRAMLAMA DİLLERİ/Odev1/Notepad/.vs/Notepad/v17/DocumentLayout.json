@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Private\\Yuksek_Lisans\\NESNEYE DAYALI PROGRAMLAMA D\u0130LLER\u0130\\Odev1\\Notepad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3407E9E-3266-4F3C-A30D-57A7AAC48BD6}|Notepad\\Notepad.csproj|c:\\private\\yuksek_lisans\\nesneye dayali programlama d\u0130ller\u0130\\odev1\\notepad\\notepad\\frmnotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3407E9E-3266-4F3C-A30D-57A7AAC48BD6}|Notepad\\Notepad.csproj|solutionrelative:notepad\\frmnotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3407E9E-3266-4F3C-A30D-57A7AAC48BD6}|Notepad\\Notepad.csproj|C:\\Private\\Yuksek_Lisans\\NESNEYE DAYALI PROGRAMLAMA D\u0130LLER\u0130\\Odev1\\Notepad\\notepad\\frmnotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3407E9E-3266-4F3C-A30D-57A7AAC48BD6}|Notepad\\Notepad.csproj|solutionrelative:notepad\\frmnotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNotePad.cs",
+              "DocumentMoniker": "C:\\Private\\Yuksek_Lisans\\NESNEYE DAYALI PROGRAMLAMA D\u0130LLER\u0130\\Odev1\\Notepad\\Notepad\\frmNotePad.cs",
+              "RelativeDocumentMoniker": "Notepad\\frmNotePad.cs",
+              "ToolTip": "C:\\Private\\Yuksek_Lisans\\NESNEYE DAYALI PROGRAMLAMA D\u0130LLER\u0130\\Odev1\\Notepad\\Notepad\\frmNotePad.cs",
+              "RelativeToolTip": "Notepad\\frmNotePad.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:28:15.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNotePad.cs [Design]",
+              "DocumentMoniker": "C:\\Private\\Yuksek_Lisans\\NESNEYE DAYALI PROGRAMLAMA D\u0130LLER\u0130\\Odev1\\Notepad\\Notepad\\frmNotePad.cs",
+              "RelativeDocumentMoniker": "Notepad\\frmNotePad.cs",
+              "ToolTip": "C:\\Private\\Yuksek_Lisans\\NESNEYE DAYALI PROGRAMLAMA D\u0130LLER\u0130\\Odev1\\Notepad\\Notepad\\frmNotePad.cs [Design]",
+              "RelativeToolTip": "Notepad\\frmNotePad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T12:28:11.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

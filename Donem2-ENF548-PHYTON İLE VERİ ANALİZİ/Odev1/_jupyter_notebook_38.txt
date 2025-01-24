@@ -1,0 +1,8 @@
+py -3.8 -m pip install ipykernel
+py -3.8 -m ipykernel install --user --name Python38
+jupyter kernelspec uninstall python38
+jupyter kernelspec list
+conda install -c conda-forge vaex-core vaex-viz vaex-jupyter vaex-server vaex-hdf5 vaex-astro vaex-ml
+conda install -c anaconda python=3.8
+conda update --all
+conda activate python38

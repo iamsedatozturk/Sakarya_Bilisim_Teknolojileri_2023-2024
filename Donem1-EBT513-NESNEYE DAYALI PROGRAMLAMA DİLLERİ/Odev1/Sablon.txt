@@ -1,0 +1,10 @@
+private void ColourRrbText(RichTextBox rtb)
+{
+    Regex regExp = new Regex("\b(For|Next|If|Then)\b");
+
+    foreach (Match match in regExp.Matches(rtb.Text))
+    {
+        rtb.Select(match.Index, match.Length);
+        rtb.SelectionColor = Color.Blue;
+    }
+}

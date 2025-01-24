@@ -1,0 +1,27 @@
+<customUI
+	xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon>
+		<tabs>
+			<tab idMso="TabHomeAccess" visible="false" />
+			<tab id="tabGuvenlik" label="Güvenlik">
+				<group id="groupKullanici" label="Kullanıcı" autoScale="true">
+					<button size="large" id="buttonYeniKullanici" label="Yeni Kullanıcı" imageMso="CondolatoryEvent" onAction="mcr_Guvenlik_User_New" visible="true"/>
+					<button size="large" id="buttonKullaniciListesi" label="Kullanıcı Listesi" imageMso="GridSettings" onAction="mcr_Guvenlik_User" visible="true"/>
+				</group>
+				<group id="groupAyarlar" label="Ayarlar" autoScale="true">
+					<button size="large" id="buttonIzinler" label="Yetki Listesi" imageMso="Bullets" onAction="mcr_Tanim_Izinler" visible="true"/>
+				</group>
+			</tab>
+			<tab id="tabYonetim" label="Yönetim">
+			        <group idMso="GroupImport" visible="true" />
+				<group id="groupForm" label="Form" autoScale="true">
+					<button size="large" id="buttonFormOlusturucu" label="Yeni Form Oluştur" imageMso="SlidesPerPageSlideOutline" onAction="mcr_StIzl_FormOlusturucu" visible="true"/>
+					<button size="large" id="buttonFormListesi" label="Form Listesi" imageMso="ViewBackToColorView" onAction="mcr_StIzl_FormListesi" visible="true"/>
+
+					<button size="large" id="buttonMenuListesi" label="Menü Listesi" imageMso="OutlineSubtotals" onAction="mcr_StIzl_MenuListesi" visible="true"/>
+				</group>
+			</tab>
+			@@DINAMIK
+		</tabs>
+	</ribbon>
+</customUI>

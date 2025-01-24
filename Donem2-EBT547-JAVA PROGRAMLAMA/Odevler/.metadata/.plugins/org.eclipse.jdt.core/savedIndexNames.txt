@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Private\Yuksek_Lisans\Donem2\JAVA PROGRAMLAMA\Odevler\.metadata\.plugins\org.eclipse.jdt.core
+429573408.index
+1129927793.index
+4100954483.index
+1865797976.index
