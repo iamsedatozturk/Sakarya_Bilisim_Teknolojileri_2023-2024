@@ -1,0 +1,1 @@
+# Sakarya_Bilisim_Teknolojileri_2023-2024
